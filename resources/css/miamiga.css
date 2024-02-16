@@ -1,0 +1,27 @@
+header {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  .logo {
+    float: left;
+    margin-right: 20px;
+    width: 50px;
+  }
+  
+  .logo imagen{
+    width: 50px;
+  }
+  
+  /* Body */
+  
+  body {
+    font-family: sans-serif;
+  }
+  
+  /* Footer */
+  
+  footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
